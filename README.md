@@ -73,7 +73,6 @@ pip install -r requirements.txt
 
 # 3. Run the notebook
 jupyter lab notebooks/superstore.ipynb
-text
 
 ## How to Use the Trained Model
 
