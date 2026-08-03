@@ -1,7 +1,7 @@
 # Superstore Profit Prediction
 
 Predicting transaction-level profit for a retail superstore to help identify discount policies that erode margins, using regression modeling with a focus on robustness to extreme-loss outliers.
-
+**[Lihat Jupyter Notebook & Kode (.ipynb)](./superstore.ipynb)**
 ## Business Problem
 
 Sales teams approve discounts without a clear view of how those discounts affect profitability. Certain sub-categories (e.g., Binders, Machines, Tables) are prone to significant losses when discounted heavily, but this risk is not visible at the point of sale. This project builds a model to estimate the profit of a transaction given its sales amount, discount, quantity, and product/customer attributes — enabling early identification of high-risk discount scenarios.
