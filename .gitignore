@@ -44,5 +44,3 @@ Thumbs.db
 .env
 .env.local
 
-# Model files (opsional - hapus baris ini kalau mau upload model .pkl)
-# models/*.pkl
