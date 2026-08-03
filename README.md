@@ -6,7 +6,7 @@ Welcome to my Data Analytics & Data Science Portfolio!
 
 I am passionate about transforming data into meaningful insights that support business decision-making. My background in banking operations has strengthened my analytical thinking, attention to detail, and problem-solving skills. Currently, I am expanding my expertise in Data Analytics, Machine Learning, and Business Intelligence through hands-on projects.
 
-👨‍💻 About Me
+<h5>👨‍💻 About Me</h5>
 
 - 📊 Passionate about Data Analytics & Data Science
 - 🐍 Learning Python for Data Analysis & Machine Learning
@@ -16,43 +16,43 @@ I am passionate about transforming data into meaningful insights that support bu
 - 🤖 Machine Learning
 - 📚 Continuously improving my analytical and technical skills
 
-# 🛠️ Skills
+<h5>🛠️ Skills</h5>
 
-## Programming
+<h5>Programming</h5>
 - Python
 - SQL (PostgreSQL)
 
-## Data Analysis
+<h5>Data Analysis</h5>
 - Pandas
 - NumPy
 - Exploratory Data Analysis (EDA)
 - Data Cleaning
 - Feature Engineering
 
-## Machine Learning
+<h5>Machine Learning</h5>
 - Scikit-learn
 - Model Evaluation
 - Cross Validation
 
-## Data Visualization
+<h5>Data Visualization</h5>
 - Matplotlib
 - Seaborn
 - Power BI
 
-## Tools
+<h5>Tools</h5>
 - Git
 - GitHub
 - Jupyter Notebook
 - VS Code
 - Excel
 
-  ## 📂 Featured Projects
+  <h5>📂 Featured Projects</h5>
 
-## 🛒 Retail Sales Analysis (End-to-End Data Science)
+🛒 Retail Sales Analysis (End-to-End Data Science)
 
 **Status:** 🚧 Done
 
-## Project Workflow
+<h5>Project Workflow</h5>
 
 - Business Understanding
 - Data Cleaning
@@ -63,13 +63,13 @@ I am passionate about transforming data into meaningful insights that support bu
 - Business Recommendation
 - Power BI Dashboard
 
-  # 🎯 Career Objective
+  <h5>🎯 Career Objective</h5>
 
 My goal is to build data-driven solutions that help organizations make better business decisions through analytics, visualization, and machine learning.
 
 ---
 
-# 📫 Contact
+<h5>📫 Contact</h5>
 
 📧 Email : yafisyhamt@gmail.com
 
