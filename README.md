@@ -7,7 +7,6 @@ Welcome to my Data Analytics & Data Science Portfolio!
 I am passionate about transforming data into meaningful insights that support business decision-making. My background in banking operations has strengthened my analytical thinking, attention to detail, and problem-solving skills. Currently, I am expanding my expertise in Data Analytics, Machine Learning, and Business Intelligence through hands-on projects.
 
 <h5>👨‍💻 About Me</h5>
-
 - 📊 Passionate about Data Analytics & Data Science
 - 🐍 Learning Python for Data Analysis & Machine Learning
 - 🗄️ SQL (PostgreSQL)
@@ -53,7 +52,6 @@ I am passionate about transforming data into meaningful insights that support bu
 **Status:** 🚧 Done
 
 <h5>Project Workflow</h5>
-
 - Business Understanding
 - Data Cleaning
 - Exploratory Data Analysis (EDA)
@@ -64,10 +62,7 @@ I am passionate about transforming data into meaningful insights that support bu
 - Power BI Dashboard
 
   <h5>🎯 Career Objective</h5>
-
 My goal is to build data-driven solutions that help organizations make better business decisions through analytics, visualization, and machine learning.
-
----
 
 <h5>📫 Contact</h5>
 
