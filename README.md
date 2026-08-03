@@ -18,41 +18,41 @@ I am passionate about transforming data into meaningful insights that support bu
 
 # 🛠️ Skills
 
-### Programming
+## Programming
 - Python
 - SQL (PostgreSQL)
 
-### Data Analysis
+## Data Analysis
 - Pandas
 - NumPy
 - Exploratory Data Analysis (EDA)
 - Data Cleaning
 - Feature Engineering
 
-### Machine Learning
+## Machine Learning
 - Scikit-learn
 - Model Evaluation
 - Cross Validation
 
-### Data Visualization
+## Data Visualization
 - Matplotlib
 - Seaborn
 - Power BI
 
-### Tools
+## Tools
 - Git
 - GitHub
 - Jupyter Notebook
 - VS Code
 - Excel
 
-  # 📂 Featured Projects
+  ## 📂 Featured Projects
 
 ## 🛒 Retail Sales Analysis (End-to-End Data Science)
 
 **Status:** 🚧 Done
 
-### Project Workflow
+## Project Workflow
 
 - Business Understanding
 - Data Cleaning
