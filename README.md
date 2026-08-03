@@ -1,7 +1,7 @@
 # Superstore Profit Prediction
 
 Predicting transaction-level profit for a retail superstore to help identify discount policies that erode margins, using regression modeling with a focus on robustness to extreme-loss outliers.
-**[look Jupyter Notebook & Kode (.ipynb)](./superstore.ipynb)**
+**[Look Jupyter Notebook](./notebooks/superstore.ipynb)**
 ## Business Problem
 
 Sales teams approve discounts without a clear view of how those discounts affect profitability. Certain sub-categories (e.g., Binders, Machines, Tables) are prone to significant losses when discounted heavily, but this risk is not visible at the point of sale. This project builds a model to estimate the profit of a transaction given its sales amount, discount, quantity, and product/customer attributes — enabling early identification of high-risk discount scenarios.
@@ -47,18 +47,17 @@ The Huber Regressor was chosen as the final model: it trades a slightly lower R�
 ## Project Structure
 
 ```
-superstore-profit-prediction/
+Portfolio/
 ├── data/
 │   ├── raw/                        # original SampleSuperstore.csv
-│   └── processed/                  # train/valid/test splits, engineered features
+│   └── processed/                  # train/valid/test splits (opsional)
 ├── notebooks/
 │   └── superstore.ipynb            # full EDA + modeling workflow
-├── models/
-│   ├── huber_model_final.pkl
-│   └── preprocessor_final.pkl
+├── models/                         # saved models (.pkl)
 ├── reports/
 │   └── figures/                    # predicted vs actual, residual plots
 ├── requirements.txt
+├── .gitignore
 └── README.md
 ```
 
@@ -66,15 +65,15 @@ superstore-profit-prediction/
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/<your-username>/superstore-profit-prediction.git
-cd superstore-profit-prediction
+git clone https://github.com/TYafisyham/Portfolio.git
+cd Portfolio
 
 # 2. Install dependencies
 pip install -r requirements.txt
 
 # 3. Run the notebook
 jupyter lab notebooks/superstore.ipynb
-```
+text
 
 ## How to Use the Trained Model
 
