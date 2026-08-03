@@ -1,6 +1,6 @@
 # 👋 Hi, I'm T. Yafisyham
 
-## Data Analyst | Data Science Enthusiast
+<h4>Data Analyst | Data Science Enthusiast </h4>
 
 Welcome to my Data Analytics & Data Science Portfolio!
 
